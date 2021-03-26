@@ -57,6 +57,7 @@ strong {
 .intro {
   background-image: linear-gradient(rgba(49, 49, 49, 0.75), rgba(15, 14, 14, 0.75)), url(../images/dark-ribs2.jpg);
   background-size :cover;
+  background-position: center;
   background-color: #404040;
   padding: 0.5em 1em;
   display: flex;
@@ -69,4 +70,29 @@ strong {
    
 .main-content {
   padding: 2em 1em;
+}
+
+/* =================
+   media queries 
+   ================= */
+   
+@media (min-width: 500px) {
+  body {
+    font-size: 1.125rem;
+    display: flex;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+  }
+
+  h2,
+  h1 + p {
+    font-size: 1.75rem;
+  }
+
+  .intro,
+  .main-content {
+    width: 50%;
+  }
 }
