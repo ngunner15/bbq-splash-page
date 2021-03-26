@@ -98,5 +98,6 @@ strong {
   .intro,
   .main-content {
     width: 50%;
+    min-height: 100vh;
   }
 }
