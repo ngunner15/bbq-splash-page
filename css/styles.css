@@ -78,6 +78,13 @@ strong {
   padding: 2em 1em;
 }
 
+.intro > *,
+.main-content > * {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* =================
    media queries 
    ================= */
