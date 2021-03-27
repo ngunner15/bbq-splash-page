@@ -64,7 +64,9 @@ strong {
    ================= */
    
 .intro {
-  background-image: linear-gradient(rgba(49, 49, 49, 0.75), rgba(15, 14, 14, 0.75)), url(../images/dark-ribs2.jpg);
+  background-image: url(../images/dark-ribs2.jpg);
+  background-color: #404040;
+  background-blend-mode: multiply;
   background-size :cover;
   background-position: center;
   background-color: #404040;
