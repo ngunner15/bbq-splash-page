@@ -1,6 +1,6 @@
 # Barbeque Website
 
-## Screenshot
+## Screenshots
 
 ### Desktop View
 !["Screenshot of Main page"](https://github.com/ngunner15/bbq-splash-page/blob/main/docs/bbq-main.PNG?raw=true)
