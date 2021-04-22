@@ -1,5 +1,7 @@
 # Barbeque Website
 
+A sample BBQ website using flexbox and media queries to make it responsive and mobile friendly.
+
 ## Screenshots
 
 ### Desktop View
